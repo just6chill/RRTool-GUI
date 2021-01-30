@@ -63,11 +63,6 @@
            </item>
            <item>
             <property name="text">
-             <string>HouseFonds</string>
-            </property>
-           </item>
-           <item>
-            <property name="text">
              <string>Militarybase</string>
             </property>
            </item>
@@ -83,12 +78,7 @@
            </item>
            <item>
             <property name="text">
-             <string>Airport</string>
-            </property>
-           </item>
-           <item>
-            <property name="text">
-             <string>Spaceport</string>
+             <string>Seaport</string>
             </property>
            </item>
            <item>
@@ -98,12 +88,22 @@
            </item>
            <item>
             <property name="text">
-             <string>Seaport</string>
+             <string>Spaceport</string>
+            </property>
+           </item>
+           <item>
+            <property name="text">
+             <string>Airport</string>
             </property>
            </item>
            <item>
             <property name="text">
              <string>Refillstation</string>
+            </property>
+           </item>
+           <item>
+            <property name="text">
+             <string>HouseFonds</string>
             </property>
            </item>
           </widget>

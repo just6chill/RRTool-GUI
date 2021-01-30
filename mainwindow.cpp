@@ -110,6 +110,15 @@ void MainWindow::on_pushButton_clicked()
         break;
 
     case 8:
+        cash = pow(calculate * 1000, 1.5);
+        oil = pow(calculate * 10, 1.5);
+        ore = pow(calculate * 10, 1.5);
+        gold = pow(calculate * 180, 1.5);
+        diamond = pow(calculate * 10, 0.7);
+        uranium = pow(calculate * 0, 1);
+        break;
+
+    case 9:
         cash = pow(calculate * 300, 1.5);
         oil = pow(calculate * 160, 1.5);
         ore = pow(calculate * 90, 1.5);
